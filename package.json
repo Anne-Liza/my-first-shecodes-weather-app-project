@@ -4,8 +4,8 @@
     "description": "",
     "main": "index.html",
     "scripts": {
-      "start": "parcel my-first-weather-app.html --open",
-      "build": "parcel build my-first-weather-app.html"
+      "start": "index.html --open",
+      "build": "index.html"
     },
     "dependencies": {},
     "devDependencies": {
