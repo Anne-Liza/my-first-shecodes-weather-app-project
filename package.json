@@ -4,8 +4,8 @@
     "description": "",
     "main": "index.html",
     "scripts": {
-      "start": "index.html --open",
-      "build": "index.html"
+      "start": "parcel index.html --open",
+      "build": "parcel built index.html"
     },
     "dependencies": {},
     "devDependencies": {
